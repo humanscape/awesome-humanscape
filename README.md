@@ -70,3 +70,6 @@
 
 ## Django 
 - [Awesome Django](https://github.com/wsvincent/awesome-django) - 장고 큐레이션 리스트
+
+### Environment
+- [django-environ](https://github.com/joke2k/django-environ) - [12 factors 방법론](https://www.12factor.net/)을 지킬수 있도록 환경설정 파일을 따로 관리할 수 있게 해주는 라이브러리
