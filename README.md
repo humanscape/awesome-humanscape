@@ -67,6 +67,21 @@
 
 ## Node.js, koa
 - [Awesome Koa](https://github.com/ellerbrock/awesome-koa) - koa 큐레이션 리스트
+  - [koa-helmet](https://github.com/venables/koa-helmet) - 보안 헤더 제공
+  - [koa-bodyparser](https://github.com/koajs/bodyparser) - request body parser
+  - [koa-json](https://github.com/koajs/json) - JSON pretty-printed response middleware
+  - [koa-passport](https://github.com/rkusa/koa-passport) - 사용자 authenticate를 위한 middleware
+  - [koa2-swagger-ui](https://github.com/scttcper/koa2-swagger-ui) - swagger api 문서출력을 위한 middleware
+  - [swagger-jsdoc](https://github.com/Surnet/swagger-jsdoc) - api 문서를 분리해서 작성하기위한 모듈
+  - [koa-views](https://github.com/queckezz/koa-views) - rendering view engine
+  - [koa-static](https://github.com/koajs/static) - static file serving을 위한 middleware
+  - [koa-session](https://github.com/koajs/session) - session 관리를 위한 middleware
+  - [koa-router](https://github.com/koajs/router) - router 처리를 위한 middleware
+- [sequelize](https://github.com/sequelize/sequelize) - 객체와 관계형DB 매핑을 위한 promise based ORM
+- [nodemailer](https://nodemailer.com/about/) - 이메일 전송을 위한 모듈
+- [request-promise-native](https://github.com/request/request-promise-native) - request를 날리기 위한 promise based 모듈
+
+
 
 ## Django 
 - [Awesome Django](https://github.com/wsvincent/awesome-django) - 장고 큐레이션 리스트
